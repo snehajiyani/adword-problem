@@ -1,0 +1,2 @@
+# adword-problem
+Malicious or unwanted software: To help ensure the safety and security of   our users, we've disapproved your ad because it contains malicious software   (malware) or because your landing page is known to host or distribute   malware in violation of our policies. We strongly encourage you to   investigate this issue immediately in order to protect yourself as well as   your customers. To run your ad, follow these instructions to check your   computer for malware, remove all malicious code from your ad and site, and   submit your site and ads for review:
